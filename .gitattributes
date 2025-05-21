@@ -1,0 +1,6 @@
+data/datasets/joined.csv filter=lfs diff=lfs merge=lfs -text
+data/hypothesis1_with_frustration_scores.csv filter=lfs diff=lfs merge=lfs -text
+data/cleaned_join.csv filter=lfs diff=lfs merge=lfs -text
+data/cleaned_joined.csv filter=lfs diff=lfs merge=lfs -text
+data/datasets/joined.db filter=lfs diff=lfs merge=lfs -text
+data/minmax_sentiment.csv filter=lfs diff=lfs merge=lfs -text
