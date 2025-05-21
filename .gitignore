@@ -1,1 +1,3 @@
-content_labelled.csv
+data/
+joined_stuff/
+.env
